@@ -1,0 +1,7 @@
+---
+title: "Projects" 
+---
+
+![](./assets/mds.png){width=200 fig-align="left"}
+
+I'm excited to add in future some of the exciting projects I have in the pipeline. These upcoming projects reflect my passion for Data Science, Natural Language Processing and Web Development. Stay tuned for what's on the horizon. Meanwhile you can visit my [`GitHub`](https://github.com/chaudharyt99?tab=repositories) and [`Portfolio`](https://chaudharyt99.github.io/) for more info on my projects.

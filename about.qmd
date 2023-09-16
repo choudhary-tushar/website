@@ -1,0 +1,9 @@
+---
+title: "About Me" 
+---
+
+![](./assets/ubc.png){width=300 fig-align="left"}
+
+Welcome to my personal website! I'm Tushar Choudhary, a Master of Data Science - Computational Linguistics student at the University of British Columnbia. I'm passionate about Data Science, Natural Language Processing and Web Development.
+
+On this website, I will be adding a collection of my work, projects, and blog posts related to my interests. I enjoy playing chess and exploring new technologies, and I'm always looking for new challenges and opportunities to learn and grow.

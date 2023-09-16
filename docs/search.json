@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Welcome to my personal website! I’m Tushar Choudhary, a Master of Data Science - Computational Linguistics student at the University of British Columnbia. I’m passionate about Data Science, Natural Language Processing and Web Development.\nOn this website, I will be adding a collection of my work, projects, and blog posts related to my interests. I enjoy playing chess and exploring new technologies, and I’m always looking for new challenges and opportunities to learn and grow."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Personal Website",
+    "section": "",
+    "text": "About Me\nHello, I’m Tushar Choudhary, and I’m delighted to have you here at my personal website. As an aspiring developer and data scientist based in Vancouver, Canada, I’m on a journey to explore the vast world of technology and its endless possibilities.\n Explore My Projects\nStep into my digital playground, where I showcase some of my recent projects and coding endeavors. From data science solutions to web development, these projects reflect my passion for coding and problem-solving. Dive into the code, check out the demos, and let’s embark on a coding adventure together.\n Blog and Insights\nIn the blog section, I share my thoughts, insights, and discoveries in the tech world. Whether it’s a tutorial on the latest programming techniques, my experiences with new technologies, or reflections on my coding journey, you’ll find it all here. Join me in unraveling the ever-evolving world of tech."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I’m excited to add in future some of the exciting projects I have in the pipeline. These upcoming projects reflect my passion for Data Science, Natural Language Processing and Web Development. Stay tuned for what’s on the horizon. Meanwhile you can visit my GitHub and Portfolio for more info on my projects."
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "Coming Soon!!!"
+  }
+]

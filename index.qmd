@@ -1,0 +1,21 @@
+---
+title: "Welcome to My Personal Website"
+---
+
+<img src="./assets/about-picture.jpeg" class="circular-image">
+
+<br>
+[**About Me**](about.qmd) 
+
+Hello, I'm Tushar Choudhary, and I'm delighted to have you here at my personal website. As an aspiring developer and data scientist based in Vancouver, Canada, I'm on a journey to explore the vast world of technology and its endless possibilities.
+
+<br>
+[**Explore My Projects**](projects.qmd)
+
+Step into my digital playground, where I showcase some of my recent projects and coding endeavors. From data science solutions to web development, these projects reflect my passion for coding and problem-solving. Dive into the code, check out the demos, and let's embark on a coding adventure together.
+
+<br>
+[**Blog and Insights**](blogs.qmd)
+
+In the blog section, I share my thoughts, insights, and discoveries in the tech world. Whether it's a tutorial on the latest programming techniques, my experiences with new technologies, or reflections on my coding journey, you'll find it all here. Join me in unraveling the ever-evolving world of tech.
+
